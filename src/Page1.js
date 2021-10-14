@@ -14,7 +14,6 @@ function Page1() {
             <h1>Active</h1>
             <h1>Creative</h1>
             <h1>Team Player</h1>
-            <h1>Husband of Barbara</h1>
             <h1>Sculptor</h1>
             <h1>Planner</h1>
     
