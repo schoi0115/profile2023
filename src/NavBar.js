@@ -1,7 +1,8 @@
 import "./App.css";
 
 import React, { useState } from "react";
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+import { Sidebar } from './Sidebar';
 
 
 
@@ -9,15 +10,15 @@ function NavBar() {
 const [sidebar, setSidebar] = useState(false)
 
 const showSidebar = () => setSidebar(!sidebar)
-
+const style = {
+  marginLeft: "-30px",
+  
+}
 
     return (
       <>
         <Link  to="/" className='menu-bars'> 
-            <h1 onClick={showSidebar} className="nav-color"><br />Home</h1>
-        </Link>
-        <Link  to="/page1" className='menu-bars'> 
-            <h1>About me</h1>
+            <h1 onClick={showSidebar} style={style} className="nav-color"><br />Home</h1>
         </Link>
 
 
@@ -25,7 +26,17 @@ const showSidebar = () => setSidebar(!sidebar)
           <ul className='nav-menu-items'>
             <div className='navbar-toggle'>
               <Link  to="/" className='menu-bars' /> 
-            </div>            
+            </div>
+            {Sidebar.map((item, index) => {
+              return (
+                <li key={index} className={item.cName}>
+                <Link to={item.path}>
+                  <span>{item.title}</span>
+                </Link>
+                </li>
+              )
+            })}
+            
           </ul>
         </nav>
 

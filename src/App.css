@@ -39,7 +39,6 @@
 
 .Img {
   position: fixed;
-  
   height:auto;
   margin-top: -150px;
   margin-left: -90px;
@@ -76,7 +75,6 @@
 }
 
 .menu-bars{
- 
   margin-left: 2rem;
   font-size: 2rem;
   background: none;
@@ -90,7 +88,6 @@
   justify-content: center;
   position: fixed;
   text-align: center;
-
   left: -100%;
   transition: 850ms;
 }
@@ -103,7 +100,6 @@
   display: flex;
   justify-content: start;
   align-items: center;
- 
   list-style: none;
   height: 60px;
 }
@@ -124,11 +120,9 @@
 }
 .nav-menu-items {
   width: 100%;
-
 }
 
 .navbar-toggle{
-
   width: 100%;
   height: 80px;
   display: flex;
@@ -142,7 +136,6 @@ span{
   margin-top: 16px;
 
 }
-
 
 .nav-color{
   position:fixed;
