@@ -9,9 +9,12 @@ function Page3() {
     return (
         <div className="typearea">
      
-            <h1>Shawn's applications from Githu</h1>
-          
+            <h1>Applications</h1>
+            <a href= "https://github.com/schoi0115" className="appgithub">{"Shawn's Git Hub"} </a>
+           
             <br />
+            <br />
+          
 
                     
                     <a href= "https://github.com/schoi0115/game_app">{"Game-app"} </a>
@@ -37,8 +40,7 @@ function Page3() {
                 <br />
 
      
-                    <a href= "https://github.com/schoi0115">{"Shawn's Git Hub"} </a>
-           
+                   
                
         </div>
 

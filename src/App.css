@@ -1,9 +1,12 @@
-
+* {
+  font-family: Comfortaa;
+}
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap");
 
 .Img {
   position: fixed;
   height:auto;
-  margin-top: -150px;
+  margin-top: -190px;
   margin-left: -90px;
   border-radius: 30%;
   max-width: 80%;
@@ -12,22 +15,46 @@
 
 .shawnbio{
   
-  max-width: 400px;
-  width: 50%;
-  margin-top: 40
-  0px;
-  margin-left: 800px;
-  border: solid;
+  max-width: 25%;
+  width: 80%;
+  margin-top: -10%;
+  margin-left: 50%;
+  
+  border-radius: 10px;
+  box-sizing: border-box;
+  width: 100%;
+  border: solid #f8d7d7 10px;
+  padding: 40px;
+  box-shadow: 0 20px 20px 20px rgba(255, 255, 255, 0.3);
+  color:white;
 }
+
+
 .home{
   margin-top: 170px;
   margin-left: 400px;
+  
+}
+.home h1{
+font-size: 80px;
+font-weight: bold;
+text-shadow:10px 10px 10px #3f3f3f;
+  
 }
 
 .typearea{
   margin-left:250px;
   margin-top: 150px;
 }
+.typearea h1{
+  font-size: 40px;
+}
+
+.appgithub{
+  font-size: 28px;
+}
+
+
 
 
 .navber{
@@ -88,7 +115,6 @@
 }
 .nav-menu-items {
   width: 100%;
-
 }
 
 .navbar-toggle{
@@ -113,7 +139,6 @@ span{
   background-color: rgb(133, 81, 81);
   width: 100%;
   height: 130px;
- 
   text-decoration: none;
   margin-top: 0px;
 

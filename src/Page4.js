@@ -13,17 +13,11 @@ function Page4() {
         <div className="typearea">
 
             <h1>Shawn Choi</h1>
-        
-            <a onClick={onResumeClick}> Resume </a>
-
+            <a onClick={onResumeClick}> Resume (Click to see the preview) </a>
             <br />    
-    
-
-
-
             <a href={pdf} download>Click to download my Resume</a>
+            <a> - Click to download</a>
 
-           
         </div>
 
     );
