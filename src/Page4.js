@@ -15,6 +15,7 @@ function Page4() {
             <h1>Shawn Choi</h1>
             <a onClick={onResumeClick}> Resume (Click to see the preview) </a>
             <br />    
+            <br /> 
             <a href={pdf} download>Click to download my Resume</a>
             <a> - Click to download</a>
 
