@@ -15,7 +15,7 @@ const showSidebar = () => setSidebar(!sidebar)
     return (
       <>
         <Link  to="/" className='menu-bars'> 
-            <h1 onClick={showSidebar} className="nav-color"><br />Menu</h1>
+            <h4 onClick={showSidebar} className="nav-color"><br />Menu</h4>
         </Link>
 
 
