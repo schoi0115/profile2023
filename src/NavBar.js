@@ -10,15 +10,12 @@ function NavBar() {
 const [sidebar, setSidebar] = useState(false)
 
 const showSidebar = () => setSidebar(!sidebar)
-const style = {
-  marginLeft: "-30px",
-  
-}
+
 
     return (
       <>
         <Link  to="/" className='menu-bars'> 
-            <h1 onClick={showSidebar} style={style} className="nav-color"><br />Home</h1>
+            <h1 onClick={showSidebar} className="nav-color"><br />Menu</h1>
         </Link>
 
 
