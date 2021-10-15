@@ -12,10 +12,10 @@ function Home() {
             <h1>Shawn Choi</h1>
            <img className="Img" src={Propic} />
            <p className="shawnbio">
-            Bilingual in Korean and English; Bachelor of Fine Arts; Proficient in Quickbooks, Adobe Photoshop, Microsoft/Google platforms, Zoom; Seeking full-time Office Administrator/Operator positions. 
+            Bilingual in Korean and English. Bachelor of Fine Arts; Proficient in Quickbooks, Adobe Photoshop, Microsoft/Google platforms, Zoom. Seeking full-time Office Administrator/Operator positions. 
             <br />
             <br />
-            Worked 5+ years in managerial positions; Worked with patients one-on-one from diverse backgrounds and effectively lead and trained new staff, while being a team player. 
+            Worked 5+ years in managerial positions. Worked with customers one-on-one from diverse backgrounds and effectively lead and trained new staff, while being a team player. 
             <br />
             <br />
 
