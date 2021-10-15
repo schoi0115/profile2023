@@ -61,8 +61,20 @@ font-family: Comfortaa;
   font-size: 28px;
 }
 
+.resumePreview{
+  cursor: grab;
+}
 
-
+.experience{
+  font-family: Comfortaa;
+  inline-size: 40%;
+  line-height: 30px;
+  
+}
+.experience .experience1{
+  font-family: Comfortaa;
+  inline-size: 70%;
+}
 
 .navber{
   background-color: lightblue;

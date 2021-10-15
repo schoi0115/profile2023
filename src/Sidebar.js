@@ -14,7 +14,7 @@ export const Sidebar = [
         cName: 'nav-text',
     },
     {
-        title: 'Section empty',
+        title: 'Experience',
         path: '/page2',
         cName: 'nav-text',
     },
