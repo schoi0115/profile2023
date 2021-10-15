@@ -52,7 +52,25 @@ font-family: Comfortaa;
 .typearea{
   margin-left:250px;
   margin-top: 150px;
+ 
 }
+.typearea_application{
+  margin-left:250px;
+  margin-top: 150px;
+  max-height: 50em;
+}
+.typearea_application p{
+  display: block;/* or inline-block */
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 60em;
+  line-height: 1.4em;
+  columns: 2;
+
+
+}
+
 .typearea h1{
   font-size: 40px;
 }
@@ -71,10 +89,7 @@ font-family: Comfortaa;
   line-height: 30px;
   
 }
-.experience .experience1{
-  font-family: Comfortaa;
-  inline-size: 70%;
-}
+
 
 .navber{
   background-color: lightblue;
@@ -166,9 +181,9 @@ span{
 
 
 
-li{
+/* li{
   background-color: rgb(133, 81, 81);
-}
+} */
 
 .bgcolor{
   background: linear-gradient(-45deg, #df6d6d 50%, #ffc4c4 50%);
