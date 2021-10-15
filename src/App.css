@@ -85,8 +85,16 @@ font-family: Comfortaa;
 
 .experience{
   font-family: Comfortaa;
-  inline-size: 40%;
-  line-height: 30px;
+  height: 4000px;
+  display: inline-block;/* or inline-block */
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow:auto;
+  width: 1500px;
+  max-height: 40em;
+  max-width: 100em;
+  line-height: 1.7em;
+ 
   
 }
 
