@@ -17,22 +17,262 @@
   max-width: 50%;
   max-height: 50%;
 }
-.Page1-pics{
+.Page1-pics1{
+  position: fixed;
   max-width: 110px;
   max-height: 170px;
   border-radius: 5px;
   margin: 5px;
   margin-top: 100px;
 }
-
 .Page1-pics2{
   position: fixed;
-  max-width: 300px;
-  max-height: 500px;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin-top: 100px;
+  margin-left: 130px;
+}
+.Page1-pics3{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 100px;
+  margin-left: 260px;
+}
+.Page1-pics4{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 100px;
+  margin-left: 390px;
+}
+.Page1-pics5{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 100px;
+  margin-left: 520px;
+}
+.Page1-pics6{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 100px;
+  margin-left: 650px;
+}
+.Page1-pics7{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 180px;
+  margin-left: 650px;
+}
+.Page1-pics8{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 100px;
+  margin-left: 910px;
+}
+.Page1-pics9{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 100px;
+  margin-left: 1040px;
+}
+.Page1-pics10{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 180px;
+  margin-left: 1040px;
+}
+.Page1-pics11{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 100px;
+  margin-left: 1170px;
+}
+.Page1-pics12{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 180px;
+  margin-left: 1170px;
+}
+.Page1-pics13{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 200px;
+  margin-left: 260px;
+}
+.Page1-pics14{
+  position: fixed;
+  max-width: 110px;
+  max-height: 170px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 100px;
+  margin-left: 780px;
+}
+
+.Page1-pics1:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
   margin-top: -400px;
   margin-left: 500px;
-  border-radius: 10px;
 }
+.Page1-pics2:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics3:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics4:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics5:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics6:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics7:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics8:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics9:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics10:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics11:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics12:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics13:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+.Page1-pics14:hover{
+  position: fixed;
+  max-width: 400px;
+  max-height: 450px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: -400px;
+  margin-left: 500px;
+}
+
+
+
+
+
 
 .home .shawnbio{
   

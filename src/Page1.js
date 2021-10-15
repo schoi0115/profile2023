@@ -23,10 +23,8 @@ import { PicBar } from './images/PicBar'
 
 
 function Page1() {
-    
-const [pic, setPic] = useState(false)
 
-const showBigPic = () => setPic(!pic)
+
     return (
         <div className="typearea">
             <h1>Proactive</h1>
@@ -35,21 +33,21 @@ const showBigPic = () => setPic(!pic)
             <h1>Sculptor</h1>
             <h1>Planner</h1>
         <div>
-            <img onClick={showBigPic} className="Page1-pics2"src={pic13} />
-            <img className="Page1-pics" src={pic1} />
-            <img className="Page1-pics" src={pic14} />
-            <img className="Page1-pics" src={pic10} />
-            <img className="Page1-pics" src={pic8} />
-            <img className="Page1-pics" src={pic6} />
-            <img className="Page1-pics" src={pic4} />
-            <img className="Page1-pics" src={pic9} />
-            <img className="Page1-pics" src={pic11} />
-            <img className="Page1-pics" src={pic2} />
+            <img className="Page1-pics1"src={pic13} />
+            <img className="Page1-pics2" src={pic1} />
+            <img className="Page1-pics3" src={pic14} />
+            <img className="Page1-pics4" src={pic10} />
+            <img className="Page1-pics5" src={pic8} />
+            <img className="Page1-pics6" src={pic6} />
+            <img className="Page1-pics7" src={pic4} />
+            <img className="Page1-pics8" src={pic9} />
+            <img className="Page1-pics9" src={pic11} />
+            <img className="Page1-pics10" src={pic2} />
 
-            <img className="Page1-pics" src={pic5} />
-            <img className="Page1-pics" src={pic12} />
-            <img className="Page1-pics" src={pic7} />
-            <img className="Page1-pics" src={pic3} />
+            <img className="Page1-pics11" src={pic5} />
+            <img className="Page1-pics12" src={pic12} />
+            <img className="Page1-pics13" src={pic7} />
+            <img className="Page1-pics14" src={pic3} />
         </div>
 
            
@@ -62,6 +60,22 @@ const showBigPic = () => setPic(!pic)
 
 export default Page1;
 
+
+{/* <img onClick={showBigPic} className="Page1-pics2"src={pic13} />
+<img className="Page1-pics" src={pic1} />
+<img className="Page1-pics" src={pic14} />
+<img className="Page1-pics" src={pic10} />
+<img className="Page1-pics" src={pic8} />
+<img className="Page1-pics" src={pic6} />
+<img className="Page1-pics" src={pic4} />
+<img className="Page1-pics" src={pic9} />
+<img className="Page1-pics" src={pic11} />
+<img className="Page1-pics" src={pic2} />
+
+<img className="Page1-pics" src={pic5} />
+<img className="Page1-pics" src={pic12} />
+<img className="Page1-pics" src={pic7} />
+<img className="Page1-pics" src={pic3} /> */}
 
 
 
