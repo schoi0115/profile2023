@@ -12,7 +12,8 @@ function Home() {
             <h1>Shawn Choi</h1>
            <img className="Img" src={Propic} />
            <p className="shawnbio">
-            Bilingual in Korean and English. Bachelor of Fine Arts; Proficient in Quickbooks, Adobe Photoshop, Microsoft/Google platforms, Zoom. Seeking full-time Office Administrator/Operator positions. 
+            Bilingual in Korean and English. Bachelor of Fine Arts; Experienced in Ruby on Rails and JavaScript based programming and a background in Arts and Design. Possess strong skills in sales and financial management that help to see the customer’s perspective.
+            proficient in Quickbooks, Adobe Photoshop, Microsoft/Google platforms, Zoom. Seeking full-time Full-Stack Developer positions. 
             <br />
             <br />
             Worked 5+ years in managerial positions. Worked with customers one-on-one from diverse backgrounds and effectively lead and trained new staff, while being a team player. 

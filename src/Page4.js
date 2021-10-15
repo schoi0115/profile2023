@@ -17,7 +17,6 @@ function Page4() {
             <br />    
             <br /> 
             <a href={pdf} download>Click to download my Resume</a>
-            <a> - Click to download</a>
 
         </div>
 
