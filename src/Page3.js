@@ -70,16 +70,17 @@ function Page3() {
                     Non-stored log in and log out feature 
                     </li>
                         <br />
-               
+                    <a href= "https://github.com/schoi0115/tetris.git">{"Tetris"} </a>
+                    <li>
+                        Using react to create Tetris game
+                    </li>
+                        
                 <a href= "https://github.com/schoi0115/login">{"Practice Login"} </a>
                     <li>
                     A practice to create a log in function with using cookie and gem 'bcrypt', '3.1.7'
                     </li>
                     <li>
-                    Practice of Ruby on rails as a Backend
-                    </li>
-                    <li>
-                    Use React for Frontend
+                    Practice of Ruby on rails as a Backend and  Use React for Frontend
                     </li>
 
                         <br />
