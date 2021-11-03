@@ -16,6 +16,12 @@ function Page3() {
                 <br />
 
                 <a href= "https://schoi0115.github.io/v-planner/">{"Vacation Planner Website"} </a>
+                <li>
+                    Calendar Function
+                    </li>
+                    <li>
+                    Can see the list of futrue trips you created
+                    </li>
             
             <br />
             <br />
