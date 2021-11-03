@@ -14,6 +14,11 @@ function Page3() {
             
                 <br />
                 <br />
+
+                <a href= "https://schoi0115.github.io/v-planner/">{"Vacation Planner Website"} </a>
+            
+            <br />
+            <br />
                  
                 <a href= "https://github.com/schoi0115/medipill">{"Medi Pill"} </a>
                     <li>
