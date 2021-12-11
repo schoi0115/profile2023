@@ -449,7 +449,7 @@ span{
 
 .bgcolor{
   background: linear-gradient(-45deg, #df6d6d 50%, #ffc4c4 50%);
-  height: 970px;
+  height: 1000px;
   transition: background-color 0.5s ease;
 }
 

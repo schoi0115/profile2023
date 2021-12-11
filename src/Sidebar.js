@@ -6,7 +6,7 @@ export const Sidebar = [
         cName: 'nav-text'
     },
     {
-        title: 'Who is Shawn?',
+        title: 'Galleries',
         path: '/page1',
         cName: 'nav-text',
     },
