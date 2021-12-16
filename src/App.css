@@ -292,6 +292,7 @@
 
 
 .home{
+  position:flex;
   margin-top: 170px;
   margin-left: 400px;
   
@@ -439,6 +440,11 @@ span{
   text-decoration: none;
   margin-top: 0px;
 
+}
+
+.tech-table{
+  column-count: 2;
+  position: flex;
 }
 
 
