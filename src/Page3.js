@@ -24,7 +24,20 @@ function Page3() {
                 </li>
 
                 <br />
+
+                <a href="https://github.com/schoi0115/react-study-Dec-/tree/main">{"React Task Tracker Application"} </a>
+                <li>
+                    Task Tracker
+                </li>
+                <li>
+                    RESTful API, POST, PUT, DELETE request
+                </li>
+                <li>
+                    Fetch data from JSON server
+                </li>
+
                 <br />
+   
 
                 <a href="https://github.com/schoi0115/medipill">{"Medi Pill"} </a>
                 <li>
