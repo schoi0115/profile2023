@@ -33,7 +33,7 @@ function Home() {
                         <br />
                         <ul>Tools
                             
-                            <li>Github</li>
+                            <li>GitHub</li>
                             <li>Chrome Dev Tools</li>
                             <li>Postman</li>
                             <li>Visual Studio</li>
