@@ -9,7 +9,6 @@
 
 
 .home Img {
- 
   height:auto;
   margin-top: -260px;
   margin-left: -120px;
@@ -268,19 +267,12 @@
   margin-top: -400px;
   margin-left: 500px;
 }
-
-
-
-
-
-
 .home .shawnbio{
   
   max-width: 35%;
   width: 80%;
   margin-top: -47%;
   margin-left: 50%;
-  
   border-radius: 10px;
   box-sizing: border-box;
   width: 100%;
@@ -289,7 +281,6 @@
   box-shadow: 0 20px 20px 20px rgba(255, 255, 255, 0.3);
   color:white;
 }
-
 
 .home{
   position:flex;

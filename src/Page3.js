@@ -15,6 +15,19 @@ function Page3() {
                 <br />
                 <br />
 
+                <a href="https://github.com/schoi0115/mobile-profile">{"Website Application for Mobile"} </a>
+                <li>
+                    Shawn's Mobile application
+                </li>
+                <li>
+                    Android Webpage for Shawn
+                </li>
+                <li>
+                    expo init "App Name"
+                </li>
+
+                <br />
+                
                 <a href="https://schoi0115.github.io/v-planner/">{"Vacation Planner Website"} </a>
                 <li>
                     Calendar Function
