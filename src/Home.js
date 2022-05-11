@@ -25,6 +25,9 @@ function Home() {
                             <li>HTML</li>
                             <li>CSS</li>
                             <li>SQL</li>
+                            <li>Java</li>
+                            <li>Spring</li>
+                            <li>Angular</li>
                             <br />
 
                         </ul>

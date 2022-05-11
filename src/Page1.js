@@ -59,33 +59,3 @@ function Page1() {
 }
 
 export default Page1;
-
-
-{/* <img onClick={showBigPic} className="Page1-pics2"src={pic13} />
-<img className="Page1-pics" src={pic1} />
-<img className="Page1-pics" src={pic14} />
-<img className="Page1-pics" src={pic10} />
-<img className="Page1-pics" src={pic8} />
-<img className="Page1-pics" src={pic6} />
-<img className="Page1-pics" src={pic4} />
-<img className="Page1-pics" src={pic9} />
-<img className="Page1-pics" src={pic11} />
-<img className="Page1-pics" src={pic2} />
-
-<img className="Page1-pics" src={pic5} />
-<img className="Page1-pics" src={pic12} />
-<img className="Page1-pics" src={pic7} />
-<img className="Page1-pics" src={pic3} /> */}
-
-
-
-
-
-{/* <img className={pic ? "Page1-pics" :  "Page1-pics2"}>
-{PicBar.map((item, index) => {
-  return (
-    <img key={index} className={item.cName} />
-    
-  )
-})}
-</img> */}

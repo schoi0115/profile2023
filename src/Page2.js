@@ -9,8 +9,18 @@ function Page2() {
     return (
         <div className="typearea">
             <p className="experience">
+            <h2>
+                    Infosys - Hartford, CT - WFH
+                </h2>
+                Accociate 01/2022 - Current
+                <br />
+                •	Daily Java and Angular program training
+                <br />
+
+
+                <br />
                 <h2>
-                    LIFETIME ARTS New Rochelle, NY
+                    LIFETIME ARTS - New Rochelle, NY
                 </h2>
                 Office Manager 08/2019 - 02/2021
                 <br />
