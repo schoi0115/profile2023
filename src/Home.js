@@ -64,7 +64,7 @@ function Home() {
                 <br />
                 <br />
 
-                I am a quick learner and enjoy a face-paced environment. As a strong patient advocate, excellent patient care, safety and education are my top priorities.
+                I am a quick learner and enjoy a face-paced environment.
 
 
             </p>
