@@ -9,16 +9,64 @@ function Page2() {
     return (
         <div className="typearea">
             <p className="experience">
-            <h2>
-                    Infosys - Hartford, CT - WFH
+                <h2>
+                    Infosys Limited - Hartford, CT - Remote
                 </h2>
-                Accociate 01/2022 - Current
+                Software Engineer Accociate 01/2022 - 09/2023
                 <br />
+                •	Experienced in Java, Angular, React, and MicroService
+                <br />
+                •	Internal Proof Of Concept Projects (MicroServices/ React/ XAMPP/ Spring Boot Projects)
+                <br />
+                <div className="lheader">
+                    ○ Preparing a showcase project for clients (Northwestern, Allstate, Bank of America)
+                </div>
+                •	Java Preparation Team Project
+                <div className="lheader">
+                    ○	Interact with new Infosys joiners and the latest technologies
+                </div>
+                <div className="lheader">
+                    ○	Spring Tool Suite/ React/ pgAdmin
+                </div>
+                •	Infosys certifications for the latest technologies training by internal program
+                <div className="lheader">
+                    ○	JAVA SE 8 Programming, Database Management System, Data Security, Maven Essentials,
+
+                    Angular, Spring, React, HTML5, CSS3, Web Design
+                </div>
                 •	Daily Java and Angular program training
                 <br />
-
-
                 <br />
+
+                <h2>
+                    UBS Financial Services - Weehawken, NJ
+                </h2>
+                Fullstack Developer Associate 12/2022 - 06/2023
+                <br />
+                • Rewrite a monolith enterprise application into a cloud-native microservice-based Spring Boot
+                application
+                <br />
+                • Worked on developing and replacing JSP screens into React applications
+                <br />
+                • Developed User Experience REST services and integrated them with React
+                <br />
+                • Developed Business and Data REST services using Spring Boot and Java 8
+                <br />
+                • Developed Connection components to interact with MQ, DB2, and Oracle
+                <br />
+                • Developed REST consumer code for services running on APIGee.
+                <br />
+                • Solved performance issues by using Core Java Concurrency
+                <br />
+                • Assigned the defects on Jira and solved backend and frontend issues
+                <br />
+                • Push and deploy the resolved codes using Gitlab from local to upstream branches
+                <br />
+                • Write JUnit to improve Code coverage and quality by solving Sonar code smell and duplicity
+                <br />
+                <br />
+
+
                 <h2>
                     LIFETIME ARTS - New Rochelle, NY
                 </h2>
