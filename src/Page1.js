@@ -15,13 +15,6 @@ import pic12 from './images/12.jpg'
 import pic13 from './images/13.jpg'
 import pic14 from './images/14.jpg'
 
-import { PicBar } from './images/PicBar'
-
-
-
-
-
-
 function Page1() {
 
 
@@ -32,7 +25,7 @@ function Page1() {
       <h1>Team Player</h1>
       <h1>Sculptor</h1>
       <h1>Planner</h1>
-      <div>
+      <div className="picContainer">
         <img className="Page1-pics1" src={pic13} />
         <img className="Page1-pics2" src={pic1} />
         <img className="Page1-pics3" src={pic14} />

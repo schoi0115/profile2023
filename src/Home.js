@@ -9,8 +9,8 @@ function Home() {
     return (
 
         <div className="home">
-            <h1 sytle={{position:'flex'}}>Shawn Choi</h1>
-            <h2 style={{ marginLeft: "20%" }}>Software Engineer</h2>
+            <h1>Shawn Choi</h1>
+            <h2>Software Engineer</h2>
             <img className="Img" src={Propic} />
             <p className="shawnbio">
                 <h4>
